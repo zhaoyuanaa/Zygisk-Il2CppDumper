@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       package_name:com.tencent.tmgp.ylm
-        description: "com.tencent.tmgp.ylm:"
+        description: "com.tencent.tmgp.ylm"
         required: true
 
 jobs:
